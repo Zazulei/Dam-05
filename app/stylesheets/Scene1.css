@@ -1,0 +1,166 @@
+#SceneScene1 {
+	position : absolute;
+	left : 0px;
+	top : 0px;
+	width : 1280px;
+	height : 720px;
+	font-family: 'Open Sans', sans-serif;
+	/*background-color: rgba(10,10,10,1);*/
+	/*background-image : url('');*/
+	background-image : url('./../../images/bg/background.png');
+
+}
+
+#login {
+	position: absolute;
+	left : 950px;
+	top : 32px;
+	color: white;
+	font-size: 18px;
+}
+
+#login spam{
+	color: rgb(80, 135, 50);
+	font-style: italic;
+}
+
+#movies {
+	/*background-color: rgba(10,10,10,1);*/
+	/*top: 50px;*/
+	
+	margin-top: 80px;
+}
+
+
+#row-0-title {
+	margin-bottom: 20px;
+}
+
+#row-1-title {
+	margin-bottom: 20px;
+}
+
+#row-2-title {
+	margin-bottom: 20px;
+}
+
+#row-3-title {
+	margin-bottom: 20px;
+}
+
+/*html, body {
+	width: 100%;
+	height: 100%;
+	font-family: 'Open Sans', sans-serif;
+	background-color: rgba(10,10,10,1);
+}*/
+
+.row-arros-l {
+	top : 36px;
+	width : 105px;
+	height : 283px;
+	/*background-color: red;*/
+	
+
+}
+
+.row-arros-r {
+	top : 36px;
+	left : 12px;
+	width : 105px;
+	height : 283px;
+	
+	/*background-color: red;*/
+	
+}
+
+.row {
+	margin: 0;
+	margin-bottom: 20px;
+}
+
+#row-0 {
+	height: 288px;
+	overflow: hidden;
+	
+	/*background-color: pink;*/
+}
+
+.cont-row-0 {
+	left : 7px;
+}
+
+#row-1 {
+	height: 288px;
+	overflow: hidden;
+}
+
+.cont-row-1 {
+	left : 7px;
+}
+
+#row-2 {
+	height: 288px;
+	overflow: hidden;
+}
+
+.cont-row-2 {
+	left : 7px;
+}
+
+#row-3 {
+	height: 288px;
+	overflow: hidden;
+}
+
+.cont-row-3 {
+	left : 7px;
+}
+
+.imges-0 {
+	display: block;
+}
+
+.imges-1 {
+	display: block;
+}
+
+.imges-2 {
+	display: block;
+}
+
+.imges-3 {
+	display: block;
+}
+
+/*.on {
+	display: block;
+}
+
+.off {
+	display: none;
+}*/
+
+#movies {
+	width : 1280px;
+	height : 720px;
+	overflow: hidden;
+}
+
+#movies img {
+	width: 100%;
+	margin-top: 10px;
+	/*margin-left : -5px;*/
+	index: 0;
+}
+
+#movies .selected img {
+	-webkit-box-shadow: 0px 0px 0px 5px rgb(80, 165, 50);
+	-moz-box-shadow: 0px 0px 0px 5px rgb(80, 165, 50);
+	box-shadow: 0px 0px 0px 5px rgb(80, 165, 50);
+}
+#SceneScene1 #svecKeyHelp_if6u{
+	position : absolute;
+	left : 0px;
+	top : 676px;
+}

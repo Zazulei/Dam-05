@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:tv.samsung.sdk="http://www.samsung.com/tvsdk">
+  <tv.samsung.sdk:VisualScene xmi:id="_2ieUoORMEeGc3-aXEl7Rpg" sId="Scene1" sName="" sType="0" sBgImage="images/bg/background.png" sWidth="1280" sHeight="720">
+    <sComponents xmi:type="tv.samsung.sdk:VisualCtrlComponent" xmi:id="_G-AWsOqtEeSqssKz24ApAA" sWidth="960.0" sHeight="33.0" sBgImage="helpbar/helpbar.png" sId="svecKeyHelp_if6u" sCaption="" sResizeOpt="ResizeOption_Width" sUserCodeIncludeJs="" sUserCodeInit="" sUserCodeDestroy="" sUserLibJs="" sUserLibImgDir="" sUserLibCss="" sType="helpbar" sFunctionName="sfKeyHelp" sLockCaption="true" sLockWidth="true" sLockHeight="true" sLockBgImage="true" sNeedResolution="true">
+      <sCssAttrs xmi:type="tv.samsung.sdk:CssAttrStruct" xmi:id="_G-AWseqtEeSqssKz24ApAA" sType="NUMBER" sValue="0" sName="left"/>
+      <sCssAttrs xmi:type="tv.samsung.sdk:CssAttrStruct" xmi:id="_G-AWsuqtEeSqssKz24ApAA" sType="NUMBER" sValue="676" sName="top"/>
+      <sParams xmi:type="tv.samsung.sdk:ParamStruct" xmi:id="_G-AWs-qtEeSqssKz24ApAA" sName="'move'" sValue="Mover"/>
+      <sParams xmi:type="tv.samsung.sdk:ParamStruct" xmi:id="_G-AWtOqtEeSqssKz24ApAA" sName="'enter'" sValue="Seleccionar"/>
+      <sParams xmi:type="tv.samsung.sdk:ParamStruct" xmi:id="_G-AWteqtEeSqssKz24ApAA" sName="'tools'" sValue="Login"/>
+    </sComponents>
+  </tv.samsung.sdk:VisualScene>
+  <notation:Diagram xmi:id="_A6MIMOg-EeSkA9Jx1g9Tww" type="VisualScene" element="_2ieUoORMEeGc3-aXEl7Rpg" name="Scene1.scene" measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_G-AWtuqtEeSqssKz24ApAA" type="2001" element="_G-AWsOqtEeSqssKz24ApAA" fontName="Segoe UI">
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_G-AWuOqtEeSqssKz24ApAA" y="676" width="960" height="33"/>
+    </children>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_2ieUouRMEeGc3-aXEl7Rpg"/>
+  </notation:Diagram>
+</xmi:XMI>

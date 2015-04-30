@@ -1,0 +1,11 @@
+{
+ "files": [],
+ "scenes": [
+  "Scene1",
+  "Scene2",
+  "SceneLogin",
+  "Trailer"
+ ],
+ "theme": "base",
+ "modules": ["ime"]
+}
